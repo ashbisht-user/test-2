@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers==2.2.2
+scikit-learn
+numpy
+torch
+transformers
+huggingface_hub
+protobuf
+pandas
